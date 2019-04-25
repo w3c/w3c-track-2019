@@ -8,32 +8,85 @@ layout: home
     <tr>
         <th>10:30 - 10:40</th>
         <td>
-            <p class="session-title">Opening Remarks</p>
-            <p class="session-speaker">Chunming Hu – W3C / Beihang University</p>
+            <p class="session-title">Opening Remarks, Chunming Hu</p>
         </td>
     </tr>
     <tr>
         <th>10:40 - 11:10</th>
         <td>
-            <p class="session-type">Invited Talk</p>
-            <p class="session-title">W3C Highlights</p>
-            <p class="session-speaker">Jeff Jaffe – W3C</p>
+            <p class="session-title">W3C Highlights, Jeff Jaffe</p>
         </td>
     </tr>
     <tr>
         <th>11:10 - 11:40</th>
         <td>
-            <p class="session-type">Invited Talk</p>
-            <p class="session-title">CSS Revolutionize Modern Typesetting</p>
-            <p class="session-speaker">Tab Atkins – Google</p>
+            <p class="session-title">CSS Revolutionize Modern Typesetting, Tab Atkins</p>
         </td>
     </tr>
     <tr>
         <th>11:40 - 12:10</th>
         <td>
-            <p class="session-type">Invited Talk</p>
-            <p class="session-title">Web Authentication for Web Applications</p>
-            <p class="session-speaker">Arnar Birgission – Google</p>
+            <p class="session-title">Web Authentication for Web Applications, Arnar Birgission</p>
+        </td>
+    </tr>
+    <tr>
+        <th>12:10 - 12:40</th>
+        <td>
+            <p class="session-title">TBD</p>
+        </td>
+    </tr>
+    <tr>
+        <th>12:40 - 14:00</th>
+        <td>
+            <p class="session-title">Lunch</p>
+        </td>
+    </tr>
+    <tr>
+        <th>14:00 - 14:30</th>
+        <td>
+            <p class="session-title">TBD</p>
+        </td>
+    </tr>
+    <tr>
+        <th>14:30 - 15:00</th>
+        <td>
+            <p class="session-title">TBD</p>
+        </td>
+    </tr>
+    <tr>
+        <th>15:00 - 15:30</th>
+        <td>
+            <p class="session-title">Fighting Fake News, Sandro Hawke</p>
+        </td>
+    </tr>
+    <tr>
+        <th>15:30 - 16:00</th>
+        <td>
+            <p class="session-title">Break</p>
+        </td>
+    </tr>
+    <tr>
+        <th>16:00 - 16:30</th>
+        <td>
+            <p class="session-title">Graph Data: RDF, Property Graphs, Ivan Herman</p>
+        </td>
+    </tr>
+    <tr>
+        <th>16:30 - 17:00</th>
+        <td>
+            <p class="session-title">TBD</p>
+        </td>
+    </tr>
+    <tr>
+        <th>17:00 - 17:30</th>
+        <td>
+            <p class="session-title">Mobile, PWA and Mini Program, Judy Zhu</p>
+        </td>
+    </tr>
+    <tr>
+        <th>17:30 - 18:30</th>
+        <td>
+            <p class="session-title">Networking and Discussion</p>
         </td>
     </tr>
     </table>
