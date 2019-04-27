@@ -55,7 +55,7 @@ layout: home
 				</div>
 				<div class="speaker-abstract">
 					<h3>Abstract</h3>
-					<h4>Invited Talk: Building a Credible Web — Fighting Misinformation with a Data Ecosystem</h4>
+					<h4>Building a Credible Web — Fighting Misinformation with a Data Ecosystem</h4>
 					<p>In recent years, the global threat of disinformation attacks (eg in elections) and more passive misinformation dangers (eg around vaccines) has become clear. The W3C Credible Web Community Group has been examining what technology can do to help.</p>
 
 					<p>We frame the problem in the Web context like this: the user, at their browser, needs to decide how much to trust online content. Various systems can help with the frequent mental credibility assessments, including the website being visited, any intermediate sites (news feeds, search engines), and the browser itself. These systems can give the user more information and cross-validate information, as well as analyze it and output the results, or even act on the user’s behalf to block very-low-credibility content.</p>
