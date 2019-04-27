@@ -20,13 +20,13 @@ layout: home
     <tr>
         <th>11:10 - 11:40</th>
         <td>
-            <p class="session-title">CSS Revolutionize Modern Typesetting, Tab Atkins</p>
+            <p class="session-title">CSS Revolutionize Modern Typesetting, Tab Atkins, Google</p>
         </td>
     </tr>
     <tr>
         <th>11:40 - 12:10</th>
         <td>
-            <p class="session-title">Web Authentication for Web Applications, Arnar Birgission</p>
+            <p class="session-title">Web Authentication for Web Applications, Arnar Birgission, Google</p>
         </td>
     </tr>
     <tr>
@@ -56,7 +56,7 @@ layout: home
     <tr>
         <th>15:00 - 15:30</th>
         <td>
-            <p class="session-title">Fighting Fake News, Sandro Hawke</p>
+            <p class="session-title">Building a Credible Web — Fighting Misinformation with a Data Ecosystem, Sandro Hawke, W3C</p>
         </td>
     </tr>
     <tr>
@@ -68,7 +68,7 @@ layout: home
     <tr>
         <th>16:00 - 16:30</th>
         <td>
-            <p class="session-title">Graph Data: RDF, Property Graphs, Ivan Herman</p>
+            <p class="session-title">Graph Data: RDF, Property Graphs, Ivan Herman, W3C</p>
         </td>
     </tr>
     <tr>
@@ -80,7 +80,7 @@ layout: home
     <tr>
         <th>17:00 - 17:30</th>
         <td>
-            <p class="session-title">Mobile, PWA and Mini Program, Judy Zhu</p>
+            <p class="session-title">Mobile, PWA and Mini Program, Judy Zhu, Alibaba</p>
         </td>
     </tr>
     <tr>
