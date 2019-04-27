@@ -14,7 +14,7 @@ layout: home
     <tr>
         <th>10:40 - 11:10</th>
         <td>
-            <p class="session-title">W3C Highlights, Jeff Jaffe</p>
+            <p class="session-title">Innovative Standards for a New Web, Jeff Jaffe, W3C</p>
         </td>
     </tr>
     <tr>
