@@ -8,7 +8,7 @@ layout: home
     <tr>
         <th>10:30 - 10:40</th>
         <td>
-            <p class="session-title">Opening Remarks, Chunming Hu</p>
+            <p class="session-title">Opening Remarks, Chunming Hu, W3C / Beihang University</p>
         </td>
     </tr>
     <tr>
