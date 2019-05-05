@@ -38,7 +38,7 @@ layout: home
     <tr>
         <th>14:00 - 14:30</th>
         <td>
-            <p class="session-title">Web Security & Privacy, TBD</p>
+            <p class="session-title">Web Security & Privacy, Pete Snyder, Brave Software</p>
         </td>
     </tr>
     <tr>
