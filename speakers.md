@@ -33,6 +33,36 @@ layout: home
 	</div>
 </section>
 
+<section class="speaker" id="arnar">
+	<div class="container-md">
+		<div class="flex">
+			<div class="col-1">
+				<div class="profile-picture">
+					<picture>
+						<img alt="Arnar Birgission" src="assets/images/Arnar-Birgission.jpg">
+					</picture>
+				</div>
+			</div>
+			<div class="col-2">
+				<div class="basic">
+					<h2 class="name">Arnar Birgission</h2>
+					<p class="speaker-title">Researcher</p>
+					<p class="speaker-detail">Google(W3C)</p>
+				</div>
+				<div class="biography">
+					<p>Arnar works on cryptographic authentication and authorization protocols at Google, and their applications to address credential theft and phishing. He's been an active contributor to W3C and FIDO standards since joining Google in 2013. He holds a PhD in programming-language based security from Chalmers University of Technology in Gothenburg, Sweden.</p>
+				</div>
+				<div class="speaker-abstract">
+					<h3>Abstract</h3>
+					<h4>WebAuthn: Strong, Usable and Standardized Authentication</h4>
+					<p>The W3C WebAuthn API enables websites to preform strong, phishing resistant authentication through trusted devices owned by the user. It allows for the incorporation of new authentication factors, such as device possession and biometrics, whether they are additional factors in multi-factor flows or components of entirely passwordless flows.
+In this talk we'll do an overview of the API and its companion FIDO specifications, focusing on the use cases they enable. We'll also consider some lessons learned through their adoption at Google, look towards the future of the spec implementation and leave open questions for what's next.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
 <section class="speaker" id="sandro">
 	<div class="container-md">
 		<div class="flex">
