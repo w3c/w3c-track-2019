@@ -20,7 +20,7 @@ layout: home
     <tr>
         <th>11:10 - 11:40</th>
         <td>
-            <p class="session-title">CSS Revolutionize Modern Typesetting, Tab Atkins, Google</p>
+            <p class="session-title">Houdini: CSS Revolutionize Modern Typesetting, Tab Atkins, Google</p>
         </td>
     </tr>
     <tr>
@@ -30,13 +30,7 @@ layout: home
         </td>
     </tr>
     <tr>
-        <th>12:10 - 12:40</th>
-        <td>
-            <p class="session-title">TBD</p>
-        </td>
-    </tr>
-    <tr>
-        <th>12:40 - 14:00</th>
+        <th>12:10 - 14:00</th>
         <td>
             <p class="session-title">Lunch</p>
         </td>
@@ -44,19 +38,19 @@ layout: home
     <tr>
         <th>14:00 - 14:30</th>
         <td>
-            <p class="session-title">TBD</p>
+            <p class="session-title">Web Security & Privacy, TBD</p>
         </td>
     </tr>
     <tr>
         <th>14:30 - 15:00</th>
         <td>
-            <p class="session-title">TBD</p>
+            <p class="session-title">Building a Credible Web — Fighting Misinformation with a Data Ecosystem, Sandro Hawke, W3C</p>
         </td>
     </tr>
     <tr>
         <th>15:00 - 15:30</th>
         <td>
-            <p class="session-title">Building a Credible Web — Fighting Misinformation with a Data Ecosystem, Sandro Hawke, W3C</p>
+            <p class="session-title">FIDO2: A Web without Passwords, Andrew Shikiar, FIDO Alliance</p>
         </td>
     </tr>
     <tr>
@@ -74,13 +68,13 @@ layout: home
     <tr>
         <th>16:30 - 17:00</th>
         <td>
-            <p class="session-title">TBD</p>
+            <p class="session-title">Mobile, PWA and Mini Program, Judy Zhu, Alibaba</p>
         </td>
     </tr>
     <tr>
         <th>17:00 - 17:30</th>
         <td>
-            <p class="session-title">Mobile, PWA and Mini Program, Judy Zhu, Alibaba</p>
+            <p class="session-title">WebXR and Immersive Web, TBD</p>
         </td>
     </tr>
     <tr>
