@@ -90,13 +90,47 @@ layout: home
 					<p>
 						LinkedIn: [https://www.linkedin.com/in/andrewshikiar](https://www.linkedin.com/in/andrewshikiar)
 					</p>
-					<p>Twtter: @andrewshikiar
+					<p>Twtter: @andrewshikiar</p>
 				</div>
 				<div class="speaker-abstract">
 					<h3>Abstract</h3>
 					<h4>FIDO2: A Web Without Passwords</h4>
 					<p>A web without passwords is within reach thanks to a new FIDO2 standards. FIDO2 open standards, developed by the FIDO Alliance in partnership with W3C, allow the consumer electronics industry to build support for easy-to-use, phishing-resistant FIDO authentication directly into their products and platforms. Including the passwordless and second-factor use cases from first generation standards FIDO U2F and FIDO UAF, FIDO2 provides the end-to-end interoperability between devices and online services needed to finally put us past the “shared secret” model of authentication for good.</p>
 					<p>Andrew Shikiar of FIDO Alliance will provide an overview of the FIDO2 vision and where adoption is to date, including the status of three critical pieces needed for adoption at scale: browser and platform support; supporting products and certification programs; and rollout by online services. While passwords will be around for a while, attendees will come away from this session understanding why and how they will begin to disappear.</p>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section class="speaker" id="ivan">
+	<div class="container-md">
+		<div class="flex">
+			<div class="col-1">
+				<div class="profile-picture">
+					<picture>
+						<img alt="Ivan Herman" src="assets/images/Ivan-Herman.jpg">
+					</picture>
+				</div>
+			</div>
+			<div class="col-2">
+				<div class="basic">
+					<h2 class="name">Ivan Herman</h2>
+					<p class="speaker-title">W3C Fellow</p>
+					<p class="speaker-detail">Centre for Mathematics and Computer Sciences (CWI)</p>
+				</div>
+				<div class="biography">
+					<p>Ivan joined the W3C team as Head of [Offices](https://www.w3.org/Consortium/Offices) in January 2001. He served as Head of Offices until June 2006, then as the Semantic Web Activity Lead until December 2013 and then, finally, as the Publishing@W3C Technical Lead. He is currently a W3C Fellow for CWI, member of the W3C Strategy as well as the Technical & Architecture teams as focusing on Digital Publishing and (in the T&A team) on of Web of Data related activities.. </p>
+					<p>Ivan graduated as mathematician at the [Eötvös Loránd University of Budapest](http://teo.elte.hu/fs/), Hungary, in 1979. After a brief scholarship at the Université Paris VI he joined the Hungarian research institute in computer science ([SZTAKI](http://www.sztaki.hu/)) where he worked for 6 years. He left Hungary in 1986 and, after a few years in industry, he joined the [Centre for Mathematics and Computer Sciences (CWI)](http://www.cwi.nl/) in Amsterdam where he has held a tenure position since 1988. He received a PhD degree in Computer Science in 1990 at the [Leiden University](http://www.leidenuniv.nl/), in the Netherlands.</p>
+					<p>His [professional home page](http://www.ivan-herman.net/professional/) contains a list of his publications and details of the various R&D projects he participated in. You can also look at his personal [personal](http://www.ivan-herman.net/) home pages.
+					</p>
+				</div>
+				<div class="speaker-abstract">
+					<h3>Abstract</h3>
+					<h4>Graph Data: RDF, Property Graphs</h4>
+					<p>W3C held [a workshop on Web Standardization for Graph Data](https://www.w3.org/Data/events/data-ws-2019/) in March 2019, in Berlin, Germany. The workshop focussed on different areas: what role do Property Graphs play and how do they relate to RDF;  and what are the possible changes, improvements, etc, that are necessary for RDF  to make it better suited for Graph Data in general. This presentation will give a quick overview of what happened at the Workshop and what the future plans are at W3C to address the relevant issues.</p>
 
 				</div>
 			</div>
