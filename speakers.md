@@ -66,3 +66,40 @@ layout: home
 		</div>
 	</div>
 </section>
+
+
+<section class="speaker" id="andrew">
+	<div class="container-md">
+		<div class="flex">
+			<div class="col-1">
+				<div class="profile-picture">
+					<picture>
+						<img alt="Andrew Shikiar" src="assets/images/Andrew-Shikiar.jpg">
+					</picture>
+				</div>
+			</div>
+			<div class="col-2">
+				<div class="basic">
+					<h2 class="name">Andrew Shikiar</h2>
+					<p class="speaker-title">Chief Marketing Officer</p>
+					<p class="speaker-detail">FIDO Alliance</p>
+				</div>
+				<div class="biography">
+					<p>Andrew Shikiar is the Chief Marketing Officer at [FIDO Alliance](http://www.fidoalliance.org), a global consortium working to create open standards and an interoperable ecosystem for simpler, stronger user authentication.  He has deep experience in multi-stakeholder organizations, having previously led market development efforts for Tizen Association, LiMo Foundation and Liberty Alliance Project – and also helped structure and launch groups such as the Smart TV Alliance and Open Visual Communications Consortia. </p>
+					<p>Shikiar additionally has held executive and managerial roles driving a variety of emerging initiatives at leading technology companies. Managerial roles at Sun Microsystems included PR and marketing leadership for the company's Java and identity management initiatives at their inception. Andrew was also a founding executive at Radical Communication, an early entrant in the interactive email & analytics market . Most recently, Andrew served as VP of Marketing & Business Development for machine learning pioneer BigML.</p>
+					<p>
+						LinkedIn: [https://www.linkedin.com/in/andrewshikiar](https://www.linkedin.com/in/andrewshikiar)
+					</p>
+					<p>Twtter: @andrewshikiar
+				</div>
+				<div class="speaker-abstract">
+					<h3>Abstract</h3>
+					<h4>FIDO2: A Web Without Passwords</h4>
+					<p>A web without passwords is within reach thanks to a new FIDO2 standards. FIDO2 open standards, developed by the FIDO Alliance in partnership with W3C, allow the consumer electronics industry to build support for easy-to-use, phishing-resistant FIDO authentication directly into their products and platforms. Including the passwordless and second-factor use cases from first generation standards FIDO U2F and FIDO UAF, FIDO2 provides the end-to-end interoperability between devices and online services needed to finally put us past the “shared secret” model of authentication for good.</p>
+					<p>Andrew Shikiar of FIDO Alliance will provide an overview of the FIDO2 vision and where adoption is to date, including the status of three critical pieces needed for adoption at scale: browser and platform support; supporting products and certification programs; and rollout by online services. While passwords will be around for a while, attendees will come away from this session understanding why and how they will begin to disappear.</p>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
