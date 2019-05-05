@@ -39,7 +39,7 @@ layout: home
 			<div class="col-1">
 				<div class="profile-picture">
 					<picture>
-						<img alt="Arnar Birgission" src="assets/images/Arnar-Birgission.JPG">
+						<img alt="Arnar Birgission" src="assets/images/Arnar-Birgisson.JPG">
 					</picture>
 				</div>
 			</div>
