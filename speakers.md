@@ -10,7 +10,7 @@ layout: home
 			<div class="col-1">
 				<div class="profile-picture">
 					<picture>
-						<img alt="Jeff Jaffe" src="assets/images/Jeff-Jaffe.jpg">
+						<img alt="Jeff Jaffe" src="assets/images/jeff-jaffe2.JPG">
 					</picture>
 				</div>
 			</div>
@@ -39,7 +39,7 @@ layout: home
 			<div class="col-1">
 				<div class="profile-picture">
 					<picture>
-						<img alt="Arnar Birgission" src="assets/images/Arnar-Birgission.jpg">
+						<img alt="Arnar Birgission" src="assets/images/Arnar-Birgission.JPG">
 					</picture>
 				</div>
 			</div>
@@ -104,7 +104,7 @@ In this talk we'll do an overview of the API and its companion FIDO specificatio
 			<div class="col-1">
 				<div class="profile-picture">
 					<picture>
-						<img alt="Andrew Shikiar" src="assets/images/Andrew-Shikiar.jpg">
+						<img alt="Andrew Shikiar" src="assets/images/Andrew-Shikiar.JPG">
 					</picture>
 				</div>
 			</div>
