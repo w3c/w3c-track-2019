@@ -10,7 +10,7 @@ layout: home
 			<div class="col-1">
 				<div class="profile-picture">
 					<picture>
-						<img alt="Jeff Jaffe" src="assets/images/Jeff-Jaffe2.jpg">
+						<img alt="Jeff Jaffe" src="assets/images/Jeff-Jaffe.jpg">
 					</picture>
 				</div>
 			</div>
