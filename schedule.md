@@ -20,7 +20,7 @@ layout: home
     <tr>
         <th>11:10 - 11:40</th>
         <td>
-            <p class="session-title">Houdini: CSS Revolutionize Modern Typesetting, Tab Atkins, Google</p>
+            <p class="session-title"><a href="speakers.html#tab">Houdini: The Future of CSS</a>, Tab Atkins Jr, Google</p>
         </td>
     </tr>
     <tr>
