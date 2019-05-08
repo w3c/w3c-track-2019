@@ -33,6 +33,45 @@ layout: home
 	</div>
 </section>
 
+<section class="speaker" id="tab">
+	<div class="container-md">
+		<div class="flex">
+			<div class="col-1">
+				<div class="profile-picture">
+					<picture>
+						<img alt="Tab Atkins Jr" src="assets/images/Tab-Atkins-Jr.JPG">
+					</picture>
+				</div>
+			</div>
+			<div class="col-2">
+				<div class="basic">
+					<h2 class="name">Tab Atkins Jr</h2>
+					<p class="speaker-title">Web Standards Hacker</p>
+					<p class="speaker-detail">Google (Chrome Team)</p>
+				</div>
+				<div class="biography">
+					<p>Tab is a Web Standards Hacker on the Chrome team at Google, and
+has been writing specs for CSS and other web tech for over a decade.</p>
+				</div>
+				<div class="speaker-abstract">
+					<h3>Abstract</h3>
+					<h4>Houdini: The Future of CSS</h4>
+					<p>CSS has produced many wonderful abilities for web
+developers, but it's always been limited strictly to what the CSS
+Working Group defined for it. Web authors have been very clever in
+remixing those abilities to achieve wonderful things, but it's still
+fundamentally limiting. "Houdini" is the project in the CSSWG to make
+CSS extensible via JavaScript, so that authors can define their own
+functionality, within CSS, without waiting for us in the CSSWG. This
+talk will cover the current Houdini specs being implemented and
+						shipped <b>today</b>, and give a glimpse of what's coming in the future.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
 <section class="speaker" id="arnar">
 	<div class="container-md">
 		<div class="flex">
