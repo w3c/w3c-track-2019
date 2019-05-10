@@ -126,10 +126,8 @@ In this talk we'll do an overview of the API and its companion FIDO specificatio
 					<h3>Abstract</h3>
 					<h4>Building a Credible Web — Fighting Misinformation with a Data Ecosystem</h4>
 					<p>In recent years, the global threat of disinformation attacks (eg in elections) and more passive misinformation dangers (eg around vaccines) has become clear. The W3C Credible Web Community Group has been examining what technology can do to help.</p>
-
-					<p>We frame the problem in the Web context like this: the user, at their browser, needs to decide how much to trust online content. Various systems can help with the frequent mental credibility assessments, including the website being visited, any intermediate sites (news feeds, search engines), and the browser itself. These systems can give the user more information and cross-validate information, as well as analyze it and output the results, or even act on the user’s behalf to block very-low-credibility content.</p>
-
-					<p>The group’s work is largely in understanding what kind of data might signal high or low credibility and helping that signal data be generated and exchanged in a partially-open data ecosystem.  This talk will describe the group’s results so far and its strategy going forward with an eye toward how people can get involved.</p>
+				<p>We frame the problem in the Web context like this: the user, at their browser, needs to decide how much to trust online content. Various systems can help with the frequent mental credibility assessments, including the website being visited, any intermediate sites (news feeds, search engines), and the browser itself. These systems can give the user more information and cross-validate information, as well as analyze it and output the results, or even act on the user’s behalf to block very-low-credibility content.</p>
+				<p>The group’s work is largely in understanding what kind of data might signal high or low credibility and helping that signal data be generated and exchanged in a partially-open data ecosystem.  This talk will describe the group’s results so far and its strategy going forward with an eye toward how people can get involved.</p>
 				</div>
 			</div>
 		</div>
@@ -166,7 +164,6 @@ In this talk we'll do an overview of the API and its companion FIDO specificatio
 					<h4>FIDO2: A Web Without Passwords</h4>
 					<p>A web without passwords is within reach thanks to a new FIDO2 standards. FIDO2 open standards, developed by the FIDO Alliance in partnership with W3C, allow the consumer electronics industry to build support for easy-to-use, phishing-resistant FIDO authentication directly into their products and platforms. Including the passwordless and second-factor use cases from first generation standards FIDO U2F and FIDO UAF, FIDO2 provides the end-to-end interoperability between devices and online services needed to finally put us past the “shared secret” model of authentication for good.</p>
 					<p>Andrew Shikiar of FIDO Alliance will provide an overview of the FIDO2 vision and where adoption is to date, including the status of three critical pieces needed for adoption at scale: browser and platform support; supporting products and certification programs; and rollout by online services. While passwords will be around for a while, attendees will come away from this session understanding why and how they will begin to disappear.</p>
-
 				</div>
 			</div>
 		</div>
@@ -200,7 +197,6 @@ In this talk we'll do an overview of the API and its companion FIDO specificatio
 					<h3>Abstract</h3>
 					<h4>Graph Data: RDF, Property Graphs</h4>
 					<p>W3C held [a workshop on Web Standardization for Graph Data](https://www.w3.org/Data/events/data-ws-2019/) in March 2019, in Berlin, Germany. The workshop focussed on different areas: what role do Property Graphs play and how do they relate to RDF;  and what are the possible changes, improvements, etc, that are necessary for RDF  to make it better suited for Graph Data in general. This presentation will give a quick overview of what happened at the Workshop and what the future plans are at W3C to address the relevant issues.</p>
-
 				</div>
 			</div>
 		</div>
@@ -233,7 +229,6 @@ In this talk we'll do an overview of the API and its companion FIDO specificatio
 					<h3>Abstract</h3>
 					<h4>MiniApp & Web</h4>
 					<p>Mini App as a new form of application has been raising quickly in the Internet market in countries like China. Leveraging the advantages of both Web application and native application, Mini Apps run on the platforms of certain super native applications with Web standards as some basic elements. As the Mini App market grows, better compatibility, interoperability and development efficiency are needed by the industry. And standardization of the Mini App technologies can be an effective solution. Also, a Mini App ecosystem based on standards might trigger another round of innovation for Web, since Mini App itself has the good potential to be another powerful carrier for the Web content. Mini App scenarios, use cases, standards requirements and thoughts of the future of Mini App and Web will be presented accordingly.</p>
-
 				</div>
 			</div>
 		</div>
