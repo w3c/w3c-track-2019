@@ -68,7 +68,7 @@ layout: home
     <tr>
         <th>16:30 - 17:00</th>
         <td>
-            <p class="session-title">Mini App & Web, Judy Zhu, Alibaba</p>
+            <p class="session-title"><a href="speakers.html#judy">Mini App & Web</a>, Judy Zhu, Alibaba</p>
         </td>
     </tr>
     <tr>
