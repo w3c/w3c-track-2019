@@ -206,3 +206,36 @@ In this talk we'll do an overview of the API and its companion FIDO specificatio
 		</div>
 	</div>
 </section>
+
+<section class="speaker" id="judy">
+	<div class="container-md">
+		<div class="flex">
+			<div class="col-1">
+				<div class="profile-picture">
+					<picture>
+						<img alt="Hongru (Judy) Zhu" src="assets/images/Hongru-Zhu.JPG">
+					</picture>
+				</div>
+			</div>
+			<div class="col-2">
+				<div class="basic">
+					<h2 class="name">Hongru (Judy) Zhu</h2>
+					<p class="speaker-title">Senior Director of Standardization Department</p>
+					<p class="speaker-detail">Alibaba Group</p>
+				</div>
+				<div class="biography">
+					<p>As the Senior Director of Standardization Department in Alibaba Group, Judy (Hongru) Zhu is responsible for standardization-related activities across Alibaba Group. With 18 years of professional standardization experiences, Judy has served as a number of leadership positions in various international and national standard organizations, such as ISO TC154 Chair, W3C Advisory Board member, FIDO Board Member, 3GPP and CCSA TC11 Vice Chair etc.</p>
+					<p>While serving as W3C Advisory Board member in W3C since 2015, Judy has been actively engaging, contributing and pushing the strategic discussion in the Advisory Board with great passion to make W3C a better place for the global Web community to work on Web standards. Also, she devotes herself into the discussion and contribution in the areas of improving globalization, Accessibility standards implementation, exploring IoT security opportunities, introducing Web Payment practices from China etc.</p>
+					<p>Recently, Judy actively works with Chinese industry to bring their practices and standardization proposals about Mini App to W3C, which has great potential to trigger another wave of Web-standard-based innovation.
+					</p>
+				</div>
+				<div class="speaker-abstract">
+					<h3>Abstract</h3>
+					<h4>MiniApp & Web</h4>
+					<p>Mini App as a new form of application has been raising quickly in the Internet market in countries like China. Leveraging the advantages of both Web application and native application, Mini Apps run on the platforms of certain super native applications with Web standards as some basic elements. As the Mini App market grows, better compatibility, interoperability and development efficiency are needed by the industry. And standardization of the Mini App technologies can be an effective solution. Also, a Mini App ecosystem based on standards might trigger another round of innovation for Web, since Mini App itself has the good potential to be another powerful carrier for the Web content. Mini App scenarios, use cases, standards requirements and thoughts of the future of Mini App and Web will be presented accordingly.</p>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
