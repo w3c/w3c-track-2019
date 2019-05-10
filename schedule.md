@@ -62,13 +62,14 @@ layout: home
     <tr>
         <th>16:00 - 16:30</th>
         <td>
-            <p class="session-title"><a href="speakers.html#ivan">Graph Data: RDF, Property Graphs</a>, Ivan Herman, W3C</p>
+            <p class="session-title"><a href="speakers.html#judy">Mini App & Web</a>, Judy Zhu, Alibaba</p>
+        
         </td>
     </tr>
     <tr>
         <th>16:30 - 17:00</th>
         <td>
-            <p class="session-title"><a href="speakers.html#judy">Mini App & Web</a>, Judy Zhu, Alibaba</p>
+            <p class="session-title"><a href="speakers.html#ivan">Graph Data: RDF, Property Graphs</a>, Ivan Herman, W3C</p>
         </td>
     </tr>
     <tr>
