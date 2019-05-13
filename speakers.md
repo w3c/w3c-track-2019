@@ -102,25 +102,24 @@ In this talk we'll do an overview of the API and its companion FIDO specificatio
 	</div>
 </section>
 
-<section class="speaker" id="sandro">
+<section class="speaker" id="aviv">
 	<div class="container-md">
 		<div class="flex">
 			<div class="col-1">
 				<div class="profile-picture">
 					<picture>
-						<img alt="Sandro Hawke" src="assets/images/Sandro-Hawke.jpg">
+						<img alt="Aviv Ovadya" src="assets/images/Aviv-Ovadya.JPG">
 					</picture>
 				</div>
 			</div>
 			<div class="col-2">
 				<div class="basic">
-					<h2 class="name">Sandro Hawke</h2>
-					<p class="speaker-title">Fellow</p>
-					<p class="speaker-detail">World Wide Web Consortium (W3C)</p>
+					<h2 class="name">Aviv Ovadya</h2>
+					<p class="speaker-title">Thoughtful Technology Project</p>
 				</div>
 				<div class="biography">
-					<p>Sandro Hawke is a W3C Fellow at MIT leading the Credible Web (credweb.org) activity to develop consensus data schemas which promote trust on the Web. For many years at W3C he helped develop standard technologies for data sharing and interop, including RDF, OWL, SPARQL, and JSON-LD. He also led MIT's Crosscloud project with Tim Berners-Lee, developing technologies for practical decentralization. He likes coding in modern JavaScript, especially in NodeJS, and still uses emacs.
-</p>
+					<p>Aviv is the founder of the Thoughtful Technology Project, and is also a non-resident fellow at the German Marshall Fund's Alliance for Securing Democracy. Aviv has been involved in raising the alarm and addressing online and AI driven misinformation since before the 2016 US election and his efforts have been covered by major news organizations across five continents. </p>
+					<p>He received his B.S. and M.Eng. degrees in computer science at MIT, and worked and consulted in Silicon Valley before becoming the founding Chief Technologist at the Center for Social Media Responsibility at the University of Michigan. Aviv was also a founding member of the Credibility Coalition, consulted for Snopes, and was a Knight News Innovation Fellow at the Tow Center at Columbia University.</p>
 				</div>
 				<div class="speaker-abstract">
 					<h3>Abstract</h3>
