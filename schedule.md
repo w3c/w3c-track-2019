@@ -44,7 +44,7 @@ layout: home
     <tr>
         <th>14:30 - 15:00</th>
         <td>
-            <p class="session-title"><a href="speakers.html#sandro">Building a Credible Web — Fighting Misinformation with a Data Ecosystem</a>, Sandro Hawke, W3C</p>
+            <p class="session-title"><a href="speakers.html#aviv">Building a Credible Web — Fighting Misinformation with a Data Ecosystem</a>, Aviv Ovadya, Thoughtful Technology Project</p>
         </td>
     </tr>
     <tr>
