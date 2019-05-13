@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Schedule
+# Schedule (May 15, 2019 at Room Seacliff D)
 
 <table class="zebra">
     <tr>
