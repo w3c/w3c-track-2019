@@ -74,7 +74,7 @@ layout: home
     <tr>
         <th>17:00 - 17:30</th>
         <td>
-            <p class="session-title">WebXR and Immersive Web, TBD</p>
+            <p class="session-title">Web-based Knowledge Extensions, Richong Zhang, Beihang University</p>
         </td>
     </tr>
     <tr>
