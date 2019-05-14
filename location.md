@@ -21,6 +21,7 @@ W3C Track is scheduled at room <b>Seacliff D</b>, of Hyatt Regency San Francisoc
 The whole area (meeting, dinner, coffee break...) is all covered with the conference wifi network. Use the following info to connect to the network.
 
 Network: TheWebConf
+
 Password: web4good
 
 ## A/V Support at Meeting Room
