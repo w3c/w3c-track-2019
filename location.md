@@ -4,7 +4,7 @@ layout: home
 
 # Location
 
-The W3C track will be held as part of the Web Conference 2019 in San Francisco, California. 
+The W3C track will be held as part of the <a href="https://www2019.thewebconf.org/">Web Conference 2019</a> in San Francisco, California. 
 
 ## Venue
 
