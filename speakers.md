@@ -124,9 +124,9 @@ In this talk we'll do an overview of the API and its companion FIDO specificatio
 				<div class="speaker-abstract">
 					<h3>Abstract</h3>
 					<h4>Building a Credible Web — Fighting Misinformation with a Data Ecosystem</h4>
-					<p>In recent years, the global threat of disinformation attacks (eg in elections) and more passive misinformation dangers (eg around vaccines) has become clear. The W3C Credible Web Community Group has been examining what technology can do to help.</p>
-				<p>We frame the problem in the Web context like this: the user, at their browser, needs to decide how much to trust online content. Various systems can help with the frequent mental credibility assessments, including the website being visited, any intermediate sites (news feeds, search engines), and the browser itself. These systems can give the user more information and cross-validate information, as well as analyze it and output the results, or even act on the user’s behalf to block very-low-credibility content.</p>
-				<p>The group’s work is largely in understanding what kind of data might signal high or low credibility and helping that signal data be generated and exchanged in a partially-open data ecosystem.  This talk will describe the group’s results so far and its strategy going forward with an eye toward how people can get involved.</p>
+					<p>In recent years, the global threat of disinformation attacks (e.g. in elections) and more passive misinformation dangers (e.g. around vaccines) has become clear. The W3C Credible Web Community Group has been examining what technology and standards can do to help.</p>
+					<p>We frame the problem in the Web context like this: the user, at their browser, needs to decide how much to trust online content. Various systems can help with the frequent mental credibility assessments: the website being visited, any intermediate sites (news feeds, search engines), and the browser itself. These systems can give the user more information and cross-validate information, as well as analyze it and output the results.</p>
+					<p>The group's work is largely in understanding what kind of data might signal high or low credibility and helping that signal data be generated and exchanged in a partially-open data ecosystem. This talk will describe the group's results so far and its strategy going forward with an eye toward how people can get involved.</p>
 				</div>
 			</div>
 		</div>
