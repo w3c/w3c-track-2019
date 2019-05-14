@@ -28,6 +28,6 @@ Password: web4good
 
 The organizers provide standard cable with HDMI, and one laptop at the meeting room. 
 
-As invited speaker, it is highly recommended to provide necessary convertor from your laptop to HDMI if you are planning to use your own computer. Or you send your slides or link of slides via e-mail in advance.
+As invited speaker, it is highly recommended to provide necessary convertor from your laptop to HDMI if you are planning to use your own computer. Or please send your slides or link of slides via e-mail in advance.
 
 
