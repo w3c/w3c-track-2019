@@ -5,6 +5,7 @@ layout: home
 # Schedule (Room Seacliff D, May 15, Wednesday)
 <p>Note: This event is open to all the WebConf participators, this is NOT a W3C Member-only event. </p>
 <p>Network: TheWebConf,  Password: web4good</p>
+
 <table class="zebra">
     <tr>
         <th>10:30 - 10:40</th>
