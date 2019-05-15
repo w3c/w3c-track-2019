@@ -100,7 +100,7 @@ has been writing specs for CSS and other web tech for over a decade.</p>
 			<div class="col-1">
 				<div class="profile-picture">
 					<picture>
-						<img alt="Pete Snyder" src="assets/images/Peter-Snyder.JPG">
+						<img alt="Pete Snyder" src="assets/images/Pete-Snyder.JPG">
 					</picture>
 				</div>
 			</div>
