@@ -240,7 +240,7 @@ as well as identify common "anti-patterns" in standards work that frustrate priv
 					<p class="speaker-detail">Centre for Mathematics and Computer Sciences (CWI)</p>
 				</div>
 				<div class="biography">
-					<p>Ivan joined the W3C team as Head of <a href="https://www.w3.org/Consortium/Offices">Offices</a> in January 2001. He served as Head of Offices until June 2006, then as the Semantic Web Activity Lead until December 2013 and then, finally, as the Publishing@W3C Technical Lead. He is currently a W3C Fellow for CWI, member of the W3C Strategy as well as the Technical & Architecture teams as focusing on Digital Publishing and (in the T&A team) on of Web of Data related activities.. </p>
+					<p>Ivan joined the W3C team as Head of <a href="https://www.w3.org/Consortium/Offices">Offices</a> in January 2001. He served as Head of Offices until June 2006, then as the Semantic Web Activity Lead until December 2013 and then, finally, as the Publishing@W3C Technical Lead. He is currently a W3C Fellow for CWI, member of the W3C Strategy as well as the Technical & Architecture teams as focusing on Digital Publishing and (in the T&A team) on of Web of Data related activities. </p>
 					<p>Ivan graduated as mathematician at the <a href="http://teo.elte.hu/fs/">Eötvös Loránd University of Budapest</a>, Hungary, in 1979. After a brief scholarship at the Université Paris VI he joined the Hungarian research institute in computer science (<a href="http://www.sztaki.hu/">SZTAKI</a>) where he worked for 6 years. He left Hungary in 1986 and, after a few years in industry, he joined the <a href="http://www.cwi.nl/">Centre for Mathematics and Computer Sciences (CWI)</a> in Amsterdam where he has held a tenure position since 1988. He received a PhD degree in Computer Science in 1990 at the <a href="http://www.leidenuniv.nl/">Leiden University</a>, in the Netherlands.</p>
 					<p>His <a href="http://www.ivan-herman.net/professional/">professional home page</a> contains a list of his publications and details of the various R&D projects he participated in. You can also look at his personal <a href="http://www.ivan-herman.net/">personal</a> home pages.</p>
 				</div>
@@ -248,6 +248,35 @@ as well as identify common "anti-patterns" in standards work that frustrate priv
 					<h3>Abstract</h3>
 					<h4>Graph Data: RDF, Property Graphs</h4>
 					<p>W3C held <a href="https://www.w3.org/Data/events/data-ws-2019/">a workshop on Web Standardization for Graph Data</a> in March 2019, in Berlin, Germany. The workshop focussed on different areas: what role do Property Graphs play and how do they relate to RDF;  and what are the possible changes, improvements, etc, that are necessary for RDF  to make it better suited for Graph Data in general. This presentation will give a quick overview of what happened at the Workshop and what the future plans are at W3C to address the relevant issues.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="speaker" id="richong">
+	<div class="container-md">
+		<div class="flex">
+			<div class="col-1">
+				<div class="profile-picture">
+					<picture>
+						<img alt="Richong Zhang" src="assets/images/Zhang-Richong.JPG">
+					</picture>
+				</div>
+			</div>
+			<div class="col-2">
+				<div class="basic">
+					<h2 class="name">Richong Zhang</h2>
+					<p class="speaker-title">Associate Professor</p>
+					<p class="speaker-detail">Innovation Center of Big Data and Brain Computing (BDBC), Beihang University</p>
+				</div>
+				<div class="biography">
+					<p>Richong Zhang received his B.Sc. Degree from Jilin University, Changchun, China, in 2001. In 2006, he received his M.Sc. degree from Dalhousie University. In 2011, he received his Ph.D form the School of Information Technology and Engineering, University of Ottawa. He is currently an associate professor in the School of Computer Science and Engineering, as well as the Innovation Center of Big Data and Brain Computing (BDBC) at Beihang University. His research interests include web data retrieval, machine learning, web data mining and their applications in natural language processing, recommender systems and knowledge graph. </p>
+				</div>
+				<div class="speaker-abstract">
+					<h3>Abstract</h3>
+					<h4>Web-based Knowledge Extensions</h4>
+					<p>Knowledge bases, such as YAGO, DBpedia and Freebase, have seen explosive growth in many application domains. As most of knowledge bases are extracted from human-edited knowledge sources, the data integrity therein is hardly guaranteed and the information contained in the knowledge bases is expected to be far from complete. This makes <b>knowledge extention</b> a particularly important task. In addition, these existing knowledge bases contain sparse linkage connectivity, which poses severe challenge to link prediction between entities. To cope with such data sparsity issues, one needs to leverage model with low complexity to avoid overfitting the weak structural information in the graphs, requiring the simple model efficiently encode the entities and their description information and then effectively decode their relationships. In this talk, we will introduce our recent proposed knowledge extention techniques, which have improved the knowledge extention performances on real-world knowledge base datasets, and then discuss the challenges of existing web standards when facing this knowledge extension, schema merging and knowledge based applications.</p>
 				</div>
 			</div>
 		</div>
