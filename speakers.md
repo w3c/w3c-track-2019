@@ -27,6 +27,7 @@ layout: home
 					<h3>Abstract</h3>
 					<h4>Innovative Standards for a New Web</h4>
 					<p>Complementing the conference theme of "a new web", this talk focuses on standards opportunities and challenges for the new web.  After all, we certainly need to sustain the principle of interoperability that forms of the foundation of today's web. This talk explores new standards needs for the new web.  Some of these relate to social needs of the web: security, privacy, internationalization, and accessibility.  Others relate to the richness of the web: apps, immersive, highly interactive, data frameworks.  Finally, others relate to e-commerce needs that are driving new requirements on the web.</p>
+					<p>Slides: <a href="assets/jeff-web.PDF">[PDF]</a></p>
 				</div>
 			</div>
 		</div>
