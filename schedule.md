@@ -3,6 +3,7 @@ layout: home
 ---
 
 # Schedule (Room Seacliff D, May 15, Wednesday)
+<p>Note: This event is open to all the WebConf participators, this is NOT a W3C Member-only event. </p>
 <p>Network: TheWebConf,  Password: web4good</p>
 <table class="zebra">
     <tr>
@@ -38,7 +39,7 @@ layout: home
     <tr>
         <th>14:00 - 14:30</th>
         <td>
-            <p class="session-title"><a href="speakers.html#pete">Brave, Privacy and Standards<a>, Pete Snyder, Brave Software</p>
+            <p class="session-title"><a href="speakers.html#pete">Brave, Privacy and Standards</a>, Pete Snyder, Brave Software</p>
         </td>
     </tr>
     <tr>
