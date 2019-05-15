@@ -56,15 +56,7 @@ has been writing specs for CSS and other web tech for over a decade.</p>
 				<div class="speaker-abstract">
 					<h3>Abstract</h3>
 					<h4>Houdini: The Future of CSS</h4>
-					<p>CSS has produced many wonderful abilities for web
-developers, but it's always been limited strictly to what the CSS
-Working Group defined for it. Web authors have been very clever in
-remixing those abilities to achieve wonderful things, but it's still
-fundamentally limiting. "Houdini" is the project in the CSSWG to make
-CSS extensible via JavaScript, so that authors can define their own
-functionality, within CSS, without waiting for us in the CSSWG. This
-talk will cover the current Houdini specs being implemented and
-						shipped <b>today</b>, and give a glimpse of what's coming in the future.</p>
+					<p>CSS has produced many wonderful abilities for web developers, but it's always been limited strictly to what the CSS Working Group defined for it. Web authors have been very clever in remixing those abilities to achieve wonderful things, but it's still fundamentally limiting. "Houdini" is the project in the CSSWG to make CSS extensible via JavaScript, so that authors can define their own functionality, within CSS, without waiting for us in the CSSWG. This talk will cover the current Houdini specs being implemented and shipped <b>today</b>, and give a glimpse of what's coming in the future.</p>
 				</div>
 			</div>
 		</div>
@@ -94,13 +86,45 @@ talk will cover the current Houdini specs being implemented and
 				<div class="speaker-abstract">
 					<h3>Abstract</h3>
 					<h4>WebAuthn: Strong, Usable and Standardized Authentication</h4>
-					<p>The W3C WebAuthn API enables websites to preform strong, phishing resistant authentication through trusted devices owned by the user. It allows for the incorporation of new authentication factors, such as device possession and biometrics, whether they are additional factors in multi-factor flows or components of entirely passwordless flows.
-In this talk we'll do an overview of the API and its companion FIDO specifications, focusing on the use cases they enable. We'll also consider some lessons learned through their adoption at Google, look towards the future of the spec implementation and leave open questions for what's next.</p>
+					<p>The W3C WebAuthn API enables websites to preform strong, phishing resistant authentication through trusted devices owned by the user. It allows for the incorporation of new authentication factors, such as device possession and biometrics, whether they are additional factors in multi-factor flows or components of entirely passwordless flows.</p>
+					<p>In this talk we'll do an overview of the API and its companion FIDO specifications, focusing on the use cases they enable. We'll also consider some lessons learned through their adoption at Google, look towards the future of the spec implementation and leave open questions for what's next.</p>
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
+
+<section class="speaker" id="pete">
+	<div class="container-md">
+		<div class="flex">
+			<div class="col-1">
+				<div class="profile-picture">
+					<picture>
+						<img alt="Pete Snyder" src="assets/images/Peter-Snyder.JPG">
+					</picture>
+				</div>
+			</div>
+			<div class="col-2">
+				<div class="basic">
+					<h2 class="name">Peter Synder</h2>
+					<p class="speaker-title">Privacy Researcher</p>
+					<p class="speaker-detail">Brave Software</p>
+				</div>
+				<div class="biography">
+					<p>Pete Snyder is the Privacy Researcher at Brave Software, where he works on new and novel ways to improve privacy and security on the web.  He is also Brave's AC at W3C, where he works to improve privacy in web standards.  Before joining Brave, he got his PhD in the Computer Science from the University of Illinois at Chicago.  Besides web privacy work, he likes discussing math-rock, chip tunes, and Chicago politics.</p>
+				</div>
+				<div class="speaker-abstract">
+					<h3>Abstract</h3>
+					<h4>Brave, Privacy and Standards</h4>
+					<p>Web standards play a large role in deciding how private the web can be. A standards process that holds privacy as a core value can help protect web users from privacy violations, and can strengthen interest in the web as a first-tier application platform.  Unfortunately, the current standards process falls short of this goal.</p>
+					<p>In this talk, I'll discuss why privacy is important at Brave, and some places where web standards have made privacy difficult.  The talk will give concrete examples of standards (new and old) that make web privacy difficult,
+as well as identify common "anti-patterns" in standards work that frustrate privacy improvements. I end with three suggestions for changes in the standardization process that would improve web privacy.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
 
 <section class="speaker" id="aviv">
 	<div class="container-md">
@@ -153,8 +177,7 @@ In this talk we'll do an overview of the API and its companion FIDO specificatio
 				<div class="biography">
 					<p>Andrew Shikiar is the Chief Marketing Officer at [FIDO Alliance](http://www.fidoalliance.org), a global consortium working to create open standards and an interoperable ecosystem for simpler, stronger user authentication.  He has deep experience in multi-stakeholder organizations, having previously led market development efforts for Tizen Association, LiMo Foundation and Liberty Alliance Project – and also helped structure and launch groups such as the Smart TV Alliance and Open Visual Communications Consortia. </p>
 					<p>Shikiar additionally has held executive and managerial roles driving a variety of emerging initiatives at leading technology companies. Managerial roles at Sun Microsystems included PR and marketing leadership for the company's Java and identity management initiatives at their inception. Andrew was also a founding executive at Radical Communication, an early entrant in the interactive email & analytics market . Most recently, Andrew served as VP of Marketing & Business Development for machine learning pioneer BigML.</p>
-					<p>
-						LinkedIn: [https://www.linkedin.com/in/andrewshikiar](https://www.linkedin.com/in/andrewshikiar)
+					<p>LinkedIn: <a href="https://www.linkedin.com/in/andrewshikiar">https://www.linkedin.com/in/andrewshikiar</a>
 					</p>
 					<p>Twtter: @andrewshikiar</p>
 				</div>
@@ -188,8 +211,7 @@ In this talk we'll do an overview of the API and its companion FIDO specificatio
 				<div class="biography">
 					<p>As the Senior Director of Standardization Department in Alibaba Group, Judy (Hongru) Zhu is responsible for standardization-related activities across Alibaba Group. With 18 years of professional standardization experiences, Judy has served as a number of leadership positions in various international and national standard organizations, such as ISO TC154 Chair, W3C Advisory Board member, FIDO Board Member, 3GPP and CCSA TC11 Vice Chair etc.</p>
 					<p>While serving as W3C Advisory Board member in W3C since 2015, Judy has been actively engaging, contributing and pushing the strategic discussion in the Advisory Board with great passion to make W3C a better place for the global Web community to work on Web standards. Also, she devotes herself into the discussion and contribution in the areas of improving globalization, Accessibility standards implementation, exploring IoT security opportunities, introducing Web Payment practices from China etc.</p>
-					<p>Recently, Judy actively works with Chinese industry to bring their practices and standardization proposals about Mini App to W3C, which has great potential to trigger another wave of Web-standard-based innovation.
-					</p>
+					<p>Recently, Judy actively works with Chinese industry to bring their practices and standardization proposals about Mini App to W3C, which has great potential to trigger another wave of Web-standard-based innovation.</p>
 				</div>
 				<div class="speaker-abstract">
 					<h3>Abstract</h3>
@@ -218,15 +240,14 @@ In this talk we'll do an overview of the API and its companion FIDO specificatio
 					<p class="speaker-detail">Centre for Mathematics and Computer Sciences (CWI)</p>
 				</div>
 				<div class="biography">
-					<p>Ivan joined the W3C team as Head of [Offices](https://www.w3.org/Consortium/Offices) in January 2001. He served as Head of Offices until June 2006, then as the Semantic Web Activity Lead until December 2013 and then, finally, as the Publishing@W3C Technical Lead. He is currently a W3C Fellow for CWI, member of the W3C Strategy as well as the Technical & Architecture teams as focusing on Digital Publishing and (in the T&A team) on of Web of Data related activities.. </p>
-					<p>Ivan graduated as mathematician at the [Eötvös Loránd University of Budapest](http://teo.elte.hu/fs/), Hungary, in 1979. After a brief scholarship at the Université Paris VI he joined the Hungarian research institute in computer science ([SZTAKI](http://www.sztaki.hu/)) where he worked for 6 years. He left Hungary in 1986 and, after a few years in industry, he joined the [Centre for Mathematics and Computer Sciences (CWI)](http://www.cwi.nl/) in Amsterdam where he has held a tenure position since 1988. He received a PhD degree in Computer Science in 1990 at the [Leiden University](http://www.leidenuniv.nl/), in the Netherlands.</p>
-					<p>His [professional home page](http://www.ivan-herman.net/professional/) contains a list of his publications and details of the various R&D projects he participated in. You can also look at his personal [personal](http://www.ivan-herman.net/) home pages.
-					</p>
+					<p>Ivan joined the W3C team as Head of <a href="https://www.w3.org/Consortium/Offices">Offices</a> in January 2001. He served as Head of Offices until June 2006, then as the Semantic Web Activity Lead until December 2013 and then, finally, as the Publishing@W3C Technical Lead. He is currently a W3C Fellow for CWI, member of the W3C Strategy as well as the Technical & Architecture teams as focusing on Digital Publishing and (in the T&A team) on of Web of Data related activities.. </p>
+					<p>Ivan graduated as mathematician at the <a href="http://teo.elte.hu/fs/">Eötvös Loránd University of Budapest</a>, Hungary, in 1979. After a brief scholarship at the Université Paris VI he joined the Hungarian research institute in computer science (<a href="http://www.sztaki.hu/">SZTAKI</a>) where he worked for 6 years. He left Hungary in 1986 and, after a few years in industry, he joined the <a href="http://www.cwi.nl/">Centre for Mathematics and Computer Sciences (CWI)</a> in Amsterdam where he has held a tenure position since 1988. He received a PhD degree in Computer Science in 1990 at the <a href="http://www.leidenuniv.nl/">Leiden University</a>, in the Netherlands.</p>
+					<p>His <a href="http://www.ivan-herman.net/professional/">professional home page</a> contains a list of his publications and details of the various R&D projects he participated in. You can also look at his personal <a href="http://www.ivan-herman.net/">personal</a> home pages.</p>
 				</div>
 				<div class="speaker-abstract">
 					<h3>Abstract</h3>
 					<h4>Graph Data: RDF, Property Graphs</h4>
-					<p>W3C held [a workshop on Web Standardization for Graph Data](https://www.w3.org/Data/events/data-ws-2019/) in March 2019, in Berlin, Germany. The workshop focussed on different areas: what role do Property Graphs play and how do they relate to RDF;  and what are the possible changes, improvements, etc, that are necessary for RDF  to make it better suited for Graph Data in general. This presentation will give a quick overview of what happened at the Workshop and what the future plans are at W3C to address the relevant issues.</p>
+					<p>W3C held <a href="https://www.w3.org/Data/events/data-ws-2019/">a workshop on Web Standardization for Graph Data</a> in March 2019, in Berlin, Germany. The workshop focussed on different areas: what role do Property Graphs play and how do they relate to RDF;  and what are the possible changes, improvements, etc, that are necessary for RDF  to make it better suited for Graph Data in general. This presentation will give a quick overview of what happened at the Workshop and what the future plans are at W3C to address the relevant issues.</p>
 				</div>
 			</div>
 		</div>
