@@ -57,6 +57,7 @@ has been writing specs for CSS and other web tech for over a decade.</p>
 					<h3>Abstract</h3>
 					<h4>Houdini: The Future of CSS</h4>
 					<p>CSS has produced many wonderful abilities for web developers, but it's always been limited strictly to what the CSS Working Group defined for it. Web authors have been very clever in remixing those abilities to achieve wonderful things, but it's still fundamentally limiting. "Houdini" is the project in the CSSWG to make CSS extensible via JavaScript, so that authors can define their own functionality, within CSS, without waiting for us in the CSSWG. This talk will cover the current Houdini specs being implemented and shipped <b>today</b>, and give a glimpse of what's coming in the future.</p>
+					<p>Slides: <a href="https://www.xanthir.com/talks/2019-05-15">[HTML]</a></p>
 				</div>
 			</div>
 		</div>
