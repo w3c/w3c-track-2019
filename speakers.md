@@ -152,6 +152,7 @@ as well as identify common "anti-patterns" in standards work that frustrate priv
 					<p>In recent years, the global threat of disinformation attacks (e.g. in elections) and more passive misinformation dangers (e.g. around vaccines) has become clear. The W3C Credible Web Community Group has been examining what technology and standards can do to help.</p>
 					<p>We frame the problem in the Web context like this: the user, at their browser, needs to decide how much to trust online content. Various systems can help with the frequent mental credibility assessments: the website being visited, any intermediate sites (news feeds, search engines), and the browser itself. These systems can give the user more information and cross-validate information, as well as analyze it and output the results.</p>
 					<p>The group's work is largely in understanding what kind of data might signal high or low credibility and helping that signal data be generated and exchanged in a partially-open data ecosystem. This talk will describe the group's results so far and its strategy going forward with an eye toward how people can get involved.</p>
+					<p>Slides: <a href="https://docs.google.com/presentation/d/17-Of0UWivD7q61fm1SQJcaJUcHMQ1lJxrqMK5PZQeCM/edit?usp=sharing">[HTML]</a></p>
 				</div>
 			</div>
 		</div>
