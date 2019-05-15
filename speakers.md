@@ -188,6 +188,7 @@ as well as identify common "anti-patterns" in standards work that frustrate priv
 					<h4>FIDO2: A Web Without Passwords</h4>
 					<p>A web without passwords is within reach thanks to a new FIDO2 standards. FIDO2 open standards, developed by the FIDO Alliance in partnership with W3C, allow the consumer electronics industry to build support for easy-to-use, phishing-resistant FIDO authentication directly into their products and platforms. Including the passwordless and second-factor use cases from first generation standards FIDO U2F and FIDO UAF, FIDO2 provides the end-to-end interoperability between devices and online services needed to finally put us past the “shared secret” model of authentication for good.</p>
 					<p>Andrew Shikiar of FIDO Alliance will provide an overview of the FIDO2 vision and where adoption is to date, including the status of three critical pieces needed for adoption at scale: browser and platform support; supporting products and certification programs; and rollout by online services. While passwords will be around for a while, attendees will come away from this session understanding why and how they will begin to disappear.</p>
+					<p>Slides: <a href="assets/andrew-fido.PDF">[PDF]</a></p>
 				</div>
 			</div>
 		</div>
