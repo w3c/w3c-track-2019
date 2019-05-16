@@ -252,6 +252,7 @@ as well as identify common "anti-patterns" in standards work that frustrate priv
 					<h3>Abstract</h3>
 					<h4>Graph Data: RDF, Property Graphs</h4>
 					<p>W3C held <a href="https://www.w3.org/Data/events/data-ws-2019/">a workshop on Web Standardization for Graph Data</a> in March 2019, in Berlin, Germany. The workshop focussed on different areas: what role do Property Graphs play and how do they relate to RDF;  and what are the possible changes, improvements, etc, that are necessary for RDF  to make it better suited for Graph Data in general. This presentation will give a quick overview of what happened at the Workshop and what the future plans are at W3C to address the relevant issues.</p>
+					<p>Slides: <a href="https://www.w3.org/2019/Talks/W3C-track-IH/Presentation.pdf">[PDF]</a></p>
 				</div>
 			</div>
 		</div>
