@@ -283,6 +283,7 @@ as well as identify common "anti-patterns" in standards work that frustrate priv
 					<h3>Abstract</h3>
 					<h4>Web-based Knowledge Extensions</h4>
 					<p>Knowledge bases, such as YAGO, DBpedia and Freebase, have seen explosive growth in many application domains. As most of knowledge bases are extracted from human-edited knowledge sources, the data integrity therein is hardly guaranteed and the information contained in the knowledge bases is expected to be far from complete. This makes <b>knowledge extention</b> a particularly important task. In addition, these existing knowledge bases contain sparse linkage connectivity, which poses severe challenge to link prediction between entities. To cope with such data sparsity issues, one needs to leverage model with low complexity to avoid overfitting the weak structural information in the graphs, requiring the simple model efficiently encode the entities and their description information and then effectively decode their relationships. In this talk, we will introduce our recent proposed knowledge extention techniques, which have improved the knowledge extention performances on real-world knowledge base datasets, and then discuss the challenges of existing web standards when facing this knowledge extension, schema merging and knowledge based applications.</p>
+					<p>Slides: <a href="assets/richong-kg.PDF">[PDF]</a></p>
 				</div>
 			</div>
 		</div>
