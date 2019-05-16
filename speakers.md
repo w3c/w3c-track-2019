@@ -121,6 +121,7 @@ has been writing specs for CSS and other web tech for over a decade.</p>
 					<p>Web standards play a large role in deciding how private the web can be. A standards process that holds privacy as a core value can help protect web users from privacy violations, and can strengthen interest in the web as a first-tier application platform.  Unfortunately, the current standards process falls short of this goal.</p>
 					<p>In this talk, I'll discuss why privacy is important at Brave, and some places where web standards have made privacy difficult.  The talk will give concrete examples of standards (new and old) that make web privacy difficult,
 as well as identify common "anti-patterns" in standards work that frustrate privacy improvements. I end with three suggestions for changes in the standardization process that would improve web privacy.</p>
+					<p>Slides: <a href="https://www.peteresnyder.com/static/slides/www-w3c-2019-brave-privacy-standards.pdf">[PDF]</a></p>
 				</div>
 			</div>
 		</div>
