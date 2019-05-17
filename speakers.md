@@ -72,13 +72,13 @@ has been writing specs for CSS and other web tech for over a decade.</p>
 			<div class="col-1">
 				<div class="profile-picture">
 					<picture>
-						<img alt="Arnar Birgission" src="assets/images/Arnar-Birgisson.JPG">
+						<img alt="Arnar Birgisson" src="assets/images/Arnar-Birgisson.JPG">
 					</picture>
 				</div>
 			</div>
 			<div class="col-2">
 				<div class="basic">
-					<h2 class="name">Arnar Birgission</h2>
+					<h2 class="name">Arnar Birgisson</h2>
 					<p class="speaker-title">Researcher</p>
 					<p class="speaker-detail">Google(W3C)</p>
 				</div>
@@ -108,7 +108,7 @@ has been writing specs for CSS and other web tech for over a decade.</p>
 			</div>
 			<div class="col-2">
 				<div class="basic">
-					<h2 class="name">Peter Synder</h2>
+					<h2 class="name">Peter Snyder</h2>
 					<p class="speaker-title">Privacy Researcher</p>
 					<p class="speaker-detail">Brave Software</p>
 				</div>
