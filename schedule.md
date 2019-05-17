@@ -28,7 +28,7 @@ layout: home
     <tr>
         <th>11:40 - 12:10</th>
         <td>
-            <p class="session-title"><a href="speakers.html#arnar">Web Authentication for Web Applications</a>, Arnar Birgission, Google</p>
+            <p class="session-title"><a href="speakers.html#arnar">Web Authentication for Web Applications</a>, Arnar Birgisson, Google</p>
         </td>
     </tr>
     <tr>
